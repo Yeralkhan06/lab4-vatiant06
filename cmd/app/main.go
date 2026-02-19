@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/Yeralkhan06/lab4-varian/pkg/waterbill"
+	"github.com/Yeralkhan06/lab4-variant06/pkg/waterbill"
 	"github.com/google/uuid" // Добавленный внешний пакет
 )
 
@@ -91,4 +91,5 @@ func main() {
 		fmt.Printf("Ошибка перехвачена: %v\n", err)
 	}
 }
+
 
